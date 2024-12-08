@@ -1,0 +1,30 @@
+#carouselExample{
+    width: 100vw;
+    height: auto; 
+    
+}
+#fotoCarrocel img { 
+    width: 100%; /* Ocupa toda a largura do contêiner */ 
+    height: 730px;
+     object-fit: cover; 
+}
+#textoEntreoSeuBmw{
+    text-align: center;
+    padding-top: 50px;
+}
+
+#container { 
+    justify-content: center;
+    display: flex;  
+    gap: 20px; /* Espaçamento entre os itens */ 
+    padding-top: 100px;
+}
+#item {  
+    padding-inline: 200px;
+    text-align: center; 
+}
+
+#opcoes{
+    margin-bottom: 40px;
+}
+

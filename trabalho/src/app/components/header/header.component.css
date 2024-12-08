@@ -1,0 +1,23 @@
+#TopNavBar{
+    background-color: whitesmoke;
+}
+#navbar{
+    color: black;
+    margin-right: 50px
+}
+#minhaImagem{
+    width: 5%;
+    max-width: 300px;
+    height: auto; 
+    margin-right: 50px;
+}
+
+#usuario{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    margin-top: 16px;
+    margin-left: auto;
+    text-decoration: none;
+    color: black;
+}

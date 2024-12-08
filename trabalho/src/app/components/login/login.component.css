@@ -1,0 +1,22 @@
+#formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding-top: 30px;
+}
+#formulario input{
+    font-size: 15px;
+}
+#botao{
+    padding-left: center;
+    padding-top: 30px;
+}
+#campo{
+    padding-top: 10px;
+}
+#cabecalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
